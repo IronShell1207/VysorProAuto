@@ -117,4 +117,61 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="ChromeVysorInstalled" xml:space="preserve">
+    <value>Патч для Vysor Chrome успешно установлен. Запустить Vysor?</value>
+  </data>
+  <data name="ChromeVysorInstaller" xml:space="preserve">
+    <value>Ты выбрал патчер Vysor'а для расширения в Chrome.  Chrome и Vysor будут закрыты! Продолжить?</value>
+  </data>
+  <data name="ChromPatcher" xml:space="preserve">
+    <value>Chrome extention Vysor patcher</value>
+  </data>
+  <data name="DownVysor" xml:space="preserve">
+    <value>Скачать пакет Vysor</value>
+  </data>
+  <data name="DownVysorComplete" xml:space="preserve">
+    <value>Загрузка пакета завершена! </value>
+  </data>
+  <data name="Error" xml:space="preserve">
+    <value>Ошибка</value>
+  </data>
+  <data name="MessageVox" xml:space="preserve">
+    <value>Привет</value>
+  </data>
+  <data name="notifyIcMessage" xml:space="preserve">
+    <value>Вы можете обновить программу, нажав кнопку проверки обновлений.</value>
+  </data>
+  <data name="Success" xml:space="preserve">
+    <value>Успешно</value>
+  </data>
+  <data name="Updatefinded" xml:space="preserve">
+    <value>Обнаружена новая версия (</value>
+  </data>
+  <data name="VysorPacDown" xml:space="preserve">
+    <value>Скачать пакет Vysor с официального сайта? Пакет загрузится в папку этой программы</value>
+  </data>
+  <data name="VysorRemove" xml:space="preserve">
+    <value>Вы уверены что хотите полностью удалить Vysor? Расширение chrome не будет удалено</value>
+  </data>
+  <data name="VysorRemoveSuc" xml:space="preserve">
+    <value>Удаление успешно завершено</value>
+  </data>
+  <data name="Win212Complete" xml:space="preserve">
+    <value>Установка Vysor 2.1.2 Pro завершена успешно!</value>
+  </data>
+  <data name="Win212VysorQ" xml:space="preserve">
+    <value>Вы выбрали полную переустановку vysor с установкой патча. Продолжить?</value>
+  </data>
+  <data name="Win217VysorQ" xml:space="preserve">
+    <value>Ты выбрал установку патча для Vysor.  Vysor выбранной версии должен быть установлен на вашем ПК. Vysor будет закрыт и пропатчен! Продолжить?</value>
+  </data>
+  <data name="WinOtherVysorQ" xml:space="preserve">
+    <value>Ты выбрал установку патча для другой версии Vysor. Нужно вручную выбрать файл uglify.js для применения патча! Продолжить?</value>
+  </data>
+  <data name="WinVysorComplete" xml:space="preserve">
+    <value>Патч для Vysor применен успешно! Нажмите ОК чтобы открыть Vysor</value>
+  </data>
+  <data name="YouneedUglify" xml:space="preserve">
+    <value>Тебе нужно выбрать 'uglify.js'</value>
+  </data>
 </root>
